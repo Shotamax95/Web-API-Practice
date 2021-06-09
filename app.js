@@ -17,7 +17,6 @@ function addList(user) {
 
 async function listUsers() {
     const users = await getUsers();
-    //DOM
     users.forEach(addList);
 }
 

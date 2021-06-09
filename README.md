@@ -1,5 +1,5 @@
 # Web API Practice
-This json practice is using async, await fetch.
+This json practice is using async, and await fetch.
 
 reference:
 https://jsonplaceholder.typicode.com
